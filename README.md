@@ -1,23 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,40:0d2218,70:0f3d2e,100:0a0f0d&height=240&section=header&text=kzzy&fontSize=140&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Builder.%20Operator.%20Founder.&descSize=18&descAlignY=78&descColor=4fd1b0&stroke=14b8a6&strokeWidth=1" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,40:0d2218,70:0f3d2e,100:0a0f0d&height=260&section=header&text=kzzy&fontSize=140&fontColor=ffffff&fontAlignY=52&animation=fadeIn&desc=Builder.%20%20Operator.%20%20Founder.&descSize=22&descAlignY=76&descColor=ffffff&stroke=14b8a6&strokeWidth=1" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=24&duration=2800&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Build+like+a+giant.+Live+like+one.;I+don%27t+prototype.+I+ship.;AI+%C2%B7+Software+%C2%B7+Hardware+%C2%B7+All+of+it.;Never+stop+building." alt="Typing SVG" />
-
-<br/>
 
 [![](https://img.shields.io/badge/Vaylo_Studios-0f3d2e?style=for-the-badge&logoColor=4fd1b0)](https://vaylostudios.com)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/47_Industries-0d2218?style=for-the-badge&logoColor=4fd1b0)](https://47industries.com)
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## Vaylo Studios
+
+*Ship, not prototype.*
+
+**Vaylo Studios** is my personal build arm — founded to prove that one operator with the right AI stack can move like a 50-person team. Every product is live in production with real users and real revenue. I build the infrastructure, the products, and the playbook. Then I teach it.
 
 ## 47 Industries
 
@@ -27,25 +25,11 @@
 
 Named in memory of **Bryce Raiford.** The mission lives on.
 
-<br/>
-
-## Vaylo Studios
-
-*Ship, not prototype.*
-
-**Vaylo Studios** is my personal build arm — founded to prove that one operator with the right AI stack can move like a 50-person team. Every product is live in production with real users and real revenue. I build the infrastructure, the products, and the playbook. Then I teach it.
-
-<br/>
-
 ---
 
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=900&size=30&duration=1&pause=999999&color=14B8A6&center=true&vCenter=true&width=500&lines=What+I've+Shipped" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f0d,50:0f3d2e,100:0a0f0d&height=80&text=What%20I've%20Shipped&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Production.%20Revenue.%20Real.&descSize=14&descColor=4fd1b0&descAlignY=82" width="100%"/>
 </div>
-
-<br/>
 
 <table>
 <tr>
@@ -114,35 +98,30 @@ Full music streaming platform with native iOS app. Playback engine, catalog mana
 </tr>
 </table>
 
-<br/>
-
 ---
-
-<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,prisma,mysql,swift,nodejs,stripe,cloudflare,vercel,linux&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,prisma,mysql,swift,nodejs,stripe,cloudflare&theme=dark&perline=5" />
+
+<br/>
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square)&nbsp;
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)&nbsp;
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)&nbsp;
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)&nbsp;
+![Apify](https://img.shields.io/badge/Apify-1DB954?style=flat-square)&nbsp;
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square)
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
 <div align="center">
 
-[![](https://img.shields.io/badge/Build_My_Pulse-AI_operator_in_2_weeks-0f3d2e?style=for-the-badge&color=0f3d2e&labelColor=0f3d2e&logoColor=ffffff)](https://vaylostudios.com/learn/build-my-pulse)&nbsp;
-[![](https://img.shields.io/badge/Custom_Dev-Web_%C2%B7_SaaS_%C2%B7_AI_%C2%B7_iOS-0d2218?style=for-the-badge&color=0d2218&labelColor=0d2218&logoColor=ffffff)](https://47industries.com/services)&nbsp;
-[![](https://img.shields.io/badge/Inner_Circle-$47%2Fmo-0a1a12?style=for-the-badge&color=0a1a12&labelColor=0a1a12&logoColor=ffffff)](https://vaylostudios.com/get/inner-circle)
-
-</div>
-
-<br/>
-
-<div align="center">
+[![](https://img.shields.io/badge/Build_My_Pulse-AI_operator_in_2_weeks-0f3d2e?style=for-the-badge&color=0f3d2e&labelColor=0f3d2e)](https://vaylostudios.com/learn/build-my-pulse)&nbsp;
+[![](https://img.shields.io/badge/Custom_Dev-Web_%C2%B7_SaaS_%C2%B7_AI_%C2%B7_iOS-0d2218?style=for-the-badge&color=0d2218&labelColor=0d2218)](https://47industries.com/services)&nbsp;
+[![](https://img.shields.io/badge/Inner_Circle-$47%2Fmo-0a1a12?style=for-the-badge&color=0a1a12&labelColor=0a1a12)](https://vaylostudios.com/get/inner-circle)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,40:0d2218,70:0f3d2e,100:0a0f0d&height=140&section=footer&text=Ship%20or%20die.&fontSize=36&fontColor=4fd1b0&fontAlignY=62&animation=fadeIn&reversal=true" width="100%"/>
 
