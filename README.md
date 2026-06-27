@@ -1,49 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:0d0d0d&height=200&section=header&text=kzzy&fontSize=90&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Kyle%20%C2%B7%20Builder.%20Operator.%20Founder.&descSize=18&descAlignY=78&descColor=888888" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:1a0533,70:2d0a5e,100:0d0d0d&height=280&section=header&text=kzzy&fontSize=120&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Kyle%20%E2%80%94%20Builder.%20Operator.%20Founder.&descSize=20&descAlignY=76&descColor=bb86fc&stroke=7c3aed&strokeWidth=2" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=26&duration=2800&pause=1200&color=BB86FC&center=true&vCenter=true&width=700&lines=Build+like+a+giant.+Live+like+one.;I+don%27t+prototype.+I+ship.;AI+%C2%B7+Software+%C2%B7+Hardware+%C2%B7+All+of+it.;Never+stop+building." alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Build+like+a+giant.+Live+like+one.;Never+stop+building.;Ship+or+die." alt="Typing SVG"/>
+---
+
+<br/>
+
+## 47 Industries
+
+> *One vision. Made permanent.*
+
+**47 Industries** is the roof over everything I build. It started with a 3D printer, a dream, and a promise — to never stop building. It became a house of companies operating across software, AI, and hardware. Every company under it is real, operational, and led by operators who ship.
+
+Named in memory of **Bryce Raiford**. The mission lives on.
+
+<br/>
+
+## Vaylo Studios
+
+> *Ship, not prototype.*
+
+**Vaylo Studios** is my personal build arm. I founded it to prove a single operator — armed with the right AI stack — can move like a 50-person team. Every product is live in production. Every system earns its keep.
+
+I build the infrastructure, the products, and the playbook. Then I teach it.
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=900&size=32&duration=1&pause=999999&color=BB86FC&center=true&vCenter=true&width=500&lines=What+I've+Shipped" alt="header"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Pulse
+**AI Operator OS**
+
+Your business, running itself. Pulse deploys a named AI operator on your infrastructure — autonomous lead gen, outreach, CRM, memory cortex, and workflow execution. Live in 2 weeks.
+
+`Claude AI` `Next.js` `Railway` `Twilio`
+
+[**Build My Pulse →**](https://vaylostudios.com/learn/build-my-pulse)
+
+</td>
+<td width="50%" valign="top">
+
+### LeadSlicer
+**B2B Outreach Automation**
+
+85% email open rate. 32% reply rate. LeadSlicer automates the full B2B lead pipeline — find, enrich, message, follow up. $300/mo SaaS, live and running.
+
+`Next.js` `Claude AI` `Google Places` `Gmail SMTP`
+
+[**leadslicer.com →**](https://leadslicer.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### BookFade
+**Barbershop SaaS**
+
+Multi-tenant booking platform built for barbers. Custom domains per shop, Stripe deposits, SMS reminders, waitlist, loyalty system, referral engine.
+
+`Next.js` `Stripe` `Twilio` `Cloudflare for SaaS`
+
+</td>
+<td width="50%" valign="top">
+
+### MotoRev
+**iOS Motorcycle App**
+
+Native Swift app for riders — real-time GPS tracking, garage manager, ride history, and safety tools. Built solo from zero to App Store.
+
+`Swift` `iOS` `GPS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### RingZero
+**AI Receptionist**
+
+Never miss a lead. RingZero answers calls 24/7, qualifies leads, books appointments, and logs everything — all autonomous.
+
+`AI` `Voice` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### Vaylo Music
+**Music Streaming Platform**
+
+Full streaming platform with native iOS app. Built from the ground up — playback engine, catalog management, mobile-first experience.
+
+`Swift` `Node.js` `iOS`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=900&size=32&duration=1&pause=999999&color=BB86FC&center=true&vCenter=true&width=300&lines=Stack" alt="header"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,prisma,mysql,swift,kotlin,react,stripe,vercel,railway&theme=dark&perline=6" />
 
 <br/><br/>
 
-[![](https://img.shields.io/badge/Vaylo_Studios-000000?style=for-the-badge)](https://vaylostudios.com)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/47_Industries-111111?style=for-the-badge)](https://47industries.com)
-
-</div>
-
----
-
-<br/>
-
-I build things that work. Not prototypes — production systems with real users, real revenue, and real stakes.
-
-I founded **[Vaylo Studios](https://vaylostudios.com)** to prove one operator with the right stack can move like an enterprise. I run **[47 Industries](https://47industries.com)** as the roof over everything I build — software, AI, hardware, all of it.
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=400&lines=What+I've+Shipped" alt="Section Header"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-| Project | What it is | Live |
-|:---|:---|:---:|
-| **Pulse** | AI operator OS — autonomous agents that run your business end-to-end | [vaylostudios.com](https://vaylostudios.com/learn/build-my-pulse) |
-| **LeadSlicer** | B2B lead gen & outreach automation · 85% open rate | [leadslicer.com](https://leadslicer.com) |
-| **BookFade** | Multi-tenant SaaS for barbershops — booking, payments, loyalty | — |
-| **MotoRev** | Native iOS motorcycle app — GPS, garage, ride safety | — |
-| **CalPal** | Cross-platform shared calendar for families & teams | — |
-| **Vaylo Music** | Music streaming platform with native iOS app | — |
-| **RingZero** | AI receptionist — 24/7 answering, lead capture, booking | — |
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logoColor=white)&nbsp;
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)&nbsp;
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 </div>
 
@@ -54,55 +155,25 @@ I founded **[Vaylo Studios](https://vaylostudios.com)** to prove one operator wi
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=300&lines=Stack" alt="Stack Header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=900&size=32&duration=1&pause=999999&color=BB86FC&center=true&vCenter=true&width=400&lines=Work+With+Me" alt="header"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)&nbsp;
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logoColor=white)&nbsp;
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)&nbsp;
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)&nbsp;
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+[![Build My Pulse](https://img.shields.io/badge/Build_My_Pulse-_AI_Operator_Deployed_in_2_Weeks-7c3aed?style=for-the-badge)](https://vaylostudios.com/learn/build-my-pulse)
 
-</div>
+[![Custom Dev](https://img.shields.io/badge/Custom_Dev-Web_%C2%B7_SaaS_%C2%B7_AI_%C2%B7_iOS_%C2%B7_Android-5b21b6?style=for-the-badge)](https://47industries.com/services)
 
-<br/>
+[![Inner Circle](https://img.shields.io/badge/Inner_Circle-Learn_to_Build_Like_This_%C2%B7_$47%2Fmo-4c1d95?style=for-the-badge)](https://vaylostudios.com/get/inner-circle)
 
----
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=28&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=350&lines=Work+With+Me" alt="Work Header"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-**[Build My Pulse](https://vaylostudios.com/learn/build-my-pulse)** — Your AI operator, deployed in 2 weeks
-
-**[Custom Dev](https://47industries.com/services)** — Web · SaaS · AI · iOS · Android
-
-**[Inner Circle](https://vaylostudios.com/get/inner-circle)** — Learn to build like this · $47/mo
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:0d0d0d&height=120&section=footer&text=Ship+or+die.&fontSize=28&fontColor=444444&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:1a0533,70:2d0a5e,100:0d0d0d&height=160&section=footer&text=Ship%20or%20die.&fontSize=40&fontColor=bb86fc&fontAlignY=60&animation=fadeIn&reversal=true" width="100%"/>
 
 </div>
