@@ -18,11 +18,11 @@
 
 ## Who I Am
 
-I'm Kyle — founder of **[Vaylo Studios](https://vaylostudios.com)** and president of **[47 Industries](https://47industries.com)**. I build production software: AI agents, SaaS platforms, native iOS apps, and the internal infrastructure that makes it all run. Every product I ship is live, has real users, and earns real revenue.
+I'm Kyle - founder of **[Vaylo Studios](https://vaylostudios.com)** and president of **[47 Industries](https://47industries.com)**. I build production software: AI agents, SaaS platforms, native iOS apps, and the internal infrastructure that makes it all run. Every product I ship is live, has real users, and earns real revenue.
 
 I don't believe in prototypes. I believe in shipping.
 
-The mission at 47 Industries started with a 3D printer and a promise — *never stop building* — made permanent in memory of **Bryce Raiford.** Everything I do carries that forward.
+The mission at 47 Industries started with a 3D printer and a promise - *never stop building* - made permanent in memory of **Bryce Raiford.** Everything I do carries that forward.
 
 ---
 
@@ -30,7 +30,7 @@ The mission at 47 Industries started with a 3D printer and a promise — *never 
 
 *My personal build arm. Ship, not prototype.*
 
-Vaylo Studios is where I prove that one operator with the right AI stack can move like a 50-person team. I build the products, the infrastructure, and the playbook — then I teach it to founders who want to do the same.
+Vaylo Studios is where I prove that one operator with the right AI stack can move like a 50-person team. I build the products, the infrastructure, and the playbook - then I teach it to founders who want to do the same.
 
 **[vaylostudios.com](https://vaylostudios.com)**
 
@@ -50,16 +50,16 @@ A house of companies operating across software, AI, and hardware. Every company 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f0d,50:0f3d2e,100:0a0f0d&height=90&text=What%20I've%20Shipped&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Production.%20Revenue.%20Real.&descSize=18&descColor=ffffff&descAlignY=80" width="100%"/>
 </div>
 
-### Pulse — AI Operator OS
+### Pulse - AI Operator OS
 
-**The agent infrastructure I run my business on — and deploy for clients.**
+**The agent infrastructure I run my business on - and deploy for clients.**
 
-Pulse is a NeuralOS workspace overlay that turns every Claude Code session into one canvas. Agents, strands, and modules tuned to how a business actually operates. Autonomous lead gen, outreach, CRM, memory cortex, and workflow execution. Not a public SaaS — it's deployed on client infrastructure in a 2-week sprint.
+Pulse is a NeuralOS workspace overlay that turns every Claude Code session into one canvas. Agents, strands, and modules tuned to how a business actually operates. Autonomous lead gen, outreach, CRM, memory cortex, and workflow execution. Not a public SaaS - it's deployed on client infrastructure in a 2-week sprint.
 
 | | |
 |---|---|
 | **Powers** | Vaylo Studios · 47 Industries · BookFade · LeadSlicer · MotoRev · client deployments |
-| **Offer** | Build My Pulse — $1,500 – $7,500 |
+| **Offer** | Build My Pulse - $1,500 – $7,500 |
 | **Status** | Internal platform + DWY service |
 
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat)&nbsp;
@@ -72,7 +72,7 @@ Pulse is a NeuralOS workspace overlay that turns every Claude Code session into 
 
 ---
 
-### LeadSlicer — B2B Outreach Automation
+### LeadSlicer - B2B Outreach Automation
 
 **Find leads. Write outreach. Close deals. On autopilot.**
 
@@ -88,11 +88,11 @@ AI-powered lead generation and outreach SaaS. Discovers businesses across Google
 
 ---
 
-### BookFade — Barber Booking Platform
+### BookFade - Barber Booking Platform
 
 **Smart booking software for barbers and barbershops.**
 
-Multi-tenant SaaS — independent barbers and shops manage bookings, calendar, clients, and services while clients discover and book through a clean public profile. Custom domain per shop, Stripe deposits, SMS/email reminders, waitlist, loyalty system, referral engine.
+Multi-tenant SaaS - independent barbers and shops manage bookings, calendar, clients, and services while clients discover and book through a clean public profile. Custom domain per shop, Stripe deposits, SMS/email reminders, waitlist, loyalty system, referral engine.
 
 | | |
 |---|---|
@@ -107,11 +107,11 @@ Multi-tenant SaaS — independent barbers and shops manage bookings, calendar, c
 
 ---
 
-### MotoRev — iOS Motorcycle App
+### MotoRev - iOS Motorcycle App
 
 **The social platform built for motorcycle riders.**
 
-Native SwiftUI app — GPS ride tracking, crash detection, emergency response, community social feed, digital garage, integrated music streaming, leaderboards, group rides, and an Apple Watch companion. Built solo from zero to App Store.
+Native SwiftUI app - GPS ride tracking, crash detection, emergency response, community social feed, digital garage, integrated music streaming, leaderboards, group rides, and an Apple Watch companion. Built solo from zero to App Store.
 
 | | |
 |---|---|
@@ -127,11 +127,11 @@ Native SwiftUI app — GPS ride tracking, crash detection, emergency response, c
 
 ---
 
-### RingZero — AI Receptionist
+### RingZero - AI Receptionist
 
 **Never miss a lead.**
 
-Answers calls 24/7, qualifies leads, books appointments, and logs everything — fully autonomous. Built so businesses stop losing money to missed calls.
+Answers calls 24/7, qualifies leads, books appointments, and logs everything - fully autonomous. Built so businesses stop losing money to missed calls.
 
 ![AI](https://img.shields.io/badge/AI-000000?style=flat)&nbsp;
 ![Voice](https://img.shields.io/badge/Voice-000000?style=flat)&nbsp;
@@ -139,11 +139,11 @@ Answers calls 24/7, qualifies leads, books appointments, and logs everything —
 
 ---
 
-### Vaylo Music — Streaming Platform
+### Vaylo Music - Streaming Platform
 
 **Full music streaming platform with native iOS app.**
 
-Playback engine, catalog management, mobile-first experience — built from scratch. SwiftUI front-end, Node.js backend, full audio delivery pipeline.
+Playback engine, catalog management, mobile-first experience - built from scratch. SwiftUI front-end, Node.js backend, full audio delivery pipeline.
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
