@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kyle Rivers
+# kzzy · Kyle
 
 ### Builder. Operator. Founder.
 
