@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,40:0d2218,70:0f3d2e,100:0a0f0d&height=220&section=header&text=kzzy&fontSize=100&fontColor=ffffff&fontAlignY=48&animation=fadeIn&desc=Builder.%20%20Operator.%20%20Founder.&descSize=20&descAlignY=70&descColor=ffffff&fontFamily=VT323" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,40:0d2218,70:0f3d2e,100:0a0f0d&height=80&section=header&text=&fontSize=0" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=64&duration=1&pause=999999&color=FFFFFF&background=0d2218&center=true&vCenter=true&width=900&height=120&lines=kzzy" alt="kzzy" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=18&duration=1&pause=999999&color=FFFFFF&background=0d2218&center=true&vCenter=true&width=900&height=36&lines=Builder.++++Operator.++++Founder." alt="subtitle" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2800&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&height=40&lines=Build+like+a+giant.+Live+like+one.;I+don%27t+prototype.+I+ship.;AI+%C2%B7+Software+%C2%B7+Hardware+%C2%B7+All+of+it.;Never+stop+building." alt="Typing SVG" />
 
 [![](https://img.shields.io/badge/Vaylo_Studios-0f3d2e?style=for-the-badge&logoColor=4fd1b0)](https://vaylostudios.com)&nbsp;&nbsp;
