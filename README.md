@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,40:0d2218,70:0f3d2e,100:0a0f0d&height=260&section=header&text=kzzy&fontSize=140&fontColor=ffffff&fontAlignY=52&animation=fadeIn&desc=Builder.%20%20Operator.%20%20Founder.&descSize=22&descAlignY=76&descColor=ffffff&stroke=14b8a6&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,40:0d2218,70:0f3d2e,100:0a0f0d&height=260&section=header&text=kzzy&fontSize=140&fontColor=ffffff&fontAlignY=52&animation=fadeIn&desc=Builder.%20%20Operator.%20%20Founder.&descSize=26&descAlignY=76&descColor=ffffff&stroke=14b8a6&strokeWidth=1&fontFamily=Press+Start+2P" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=24&duration=2800&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Build+like+a+giant.+Live+like+one.;I+don%27t+prototype.+I+ship.;AI+%C2%B7+Software+%C2%B7+Hardware+%C2%B7+All+of+it.;Never+stop+building." alt="Typing SVG" />
 
@@ -28,7 +28,7 @@ Named in memory of **Bryce Raiford.** The mission lives on.
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f0d,50:0f3d2e,100:0a0f0d&height=80&text=What%20I've%20Shipped&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Production.%20Revenue.%20Real.&descSize=14&descColor=4fd1b0&descAlignY=82" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f0d,50:0f3d2e,100:0a0f0d&height=90&text=What%20I've%20Shipped&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Production.%20Revenue.%20Real.&descSize=18&descColor=ffffff&descAlignY=80" width="100%"/>
 </div>
 
 <table>
@@ -65,6 +65,8 @@ Multi-tenant platform for barbers. Custom domains per shop, Stripe deposits, SMS
 
 `Next.js` &nbsp;`Stripe` &nbsp;`Twilio` &nbsp;`Cloudflare for SaaS`
 
+&nbsp;
+
 </td>
 <td width="50%" valign="top">
 
@@ -73,6 +75,8 @@ Multi-tenant platform for barbers. Custom domains per shop, Stripe deposits, SMS
 Native Swift app for riders — GPS tracking, garage manager, ride history, safety tools. Built solo from zero to App Store.
 
 `Swift` &nbsp;`iOS` &nbsp;`GPS`
+
+&nbsp;
 
 </td>
 </tr>
@@ -85,6 +89,8 @@ Never miss a lead. Answers calls 24/7, qualifies leads, books appointments, logs
 
 `AI` &nbsp;`Voice` &nbsp;`Automation`
 
+&nbsp;
+
 </td>
 <td width="50%" valign="top">
 
@@ -94,6 +100,8 @@ Full music streaming platform with native iOS app. Playback engine, catalog mana
 
 `Swift` &nbsp;`Node.js` &nbsp;`iOS`
 
+&nbsp;
+
 </td>
 </tr>
 </table>
@@ -102,16 +110,18 @@ Full music streaming platform with native iOS app. Playback engine, catalog mana
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,prisma,mysql,swift,nodejs,stripe,cloudflare&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,prisma,swift,nodejs,cloudflare&theme=dark&perline=4" />
 
 <br/>
 
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&nbsp;
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)&nbsp;
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)&nbsp;
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)&nbsp;
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)&nbsp;
-![Apify](https://img.shields.io/badge/Apify-1DB954?style=flat-square)&nbsp;
-![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square)&nbsp;
+![Apify](https://img.shields.io/badge/Apify-1DB954?style=flat-square)
 
 </div>
 
