@@ -109,10 +109,6 @@ Full music streaming platform with native iOS app. Playback engine, catalog mana
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,prisma,swift,nodejs,cloudflare&theme=dark&perline=4" />
-
-<br/>
-
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&nbsp;
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)&nbsp;
