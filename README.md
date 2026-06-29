@@ -127,18 +127,6 @@ Native SwiftUI app - GPS ride tracking, crash detection, emergency response, com
 
 ---
 
-### RingZero - AI Receptionist
-
-**Never miss a lead.**
-
-Answers calls 24/7, qualifies leads, books appointments, and logs everything - fully autonomous. Built so businesses stop losing money to missed calls.
-
-![AI](https://img.shields.io/badge/AI-000000?style=flat)&nbsp;
-![Voice](https://img.shields.io/badge/Voice-000000?style=flat)&nbsp;
-![Automation](https://img.shields.io/badge/Automation-000000?style=flat)
-
----
-
 ### Vaylo Music - Streaming Platform
 
 **Full music streaming platform with native iOS app.**
