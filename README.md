@@ -18,7 +18,7 @@
 
 ## Who I Am
 
-I'm Kyle - founder of **[Vaylo Studios](https://vaylostudios.com)** and president of **[47 Industries](https://47industries.com)**. I build production software: AI agents, SaaS platforms, native iOS apps, and the internal infrastructure that makes it all run. Every product I ship is live, has real users, and earns real revenue.
+I'm kzzy - founder of **[Vaylo Studios](https://vaylostudios.com)** and president of **[47 Industries](https://47industries.com)**. I build production software: AI agents, SaaS platforms, native iOS apps, and the internal infrastructure that makes it all run. Every product I ship is live, has real users, and earns real revenue.
 
 I don't believe in prototypes. I believe in shipping.
 
