@@ -105,7 +105,7 @@ Multi-tenant SaaS - independent barbers and shops manage bookings, calendar, cli
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_for_SaaS-F38020?style=flat&logo=cloudflare&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-[github.com/Vaylo-Studios/bookfade](https://github.com/Vaylo-Studios/bookfade)
+[github.com/Vaylo-Studios/bookfade](https://github.com/Vaylo-Studios/bookfade) &nbsp;·&nbsp; [bookfade.app →](https://bookfade.app) &nbsp;·&nbsp; [bookfade.com →](https://bookfade.com)
 
 ---
 
