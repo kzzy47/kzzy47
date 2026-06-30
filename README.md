@@ -50,7 +50,7 @@ A house of companies operating across software, AI, and hardware. Every company 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f0d,50:0f3d2e,100:0a0f0d&height=90&text=What%20I've%20Shipped&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Production.%20Revenue.%20Real.&descSize=18&descColor=ffffff&descAlignY=80" width="100%"/>
 </div>
 
-### Pulse - AI Operator OS
+### [Pulse](https://github.com/Vaylo-Studios/pulse) - AI Operator OS
 
 **The agent infrastructure I run my business on - and deploy for clients.**
 
@@ -68,11 +68,11 @@ Pulse is a NeuralOS workspace overlay that turns every Claude Code session into 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)&nbsp;
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 
-[Build My Pulse →](https://vaylostudios.com/learn/build-my-pulse)
+[github.com/Vaylo-Studios/pulse](https://github.com/Vaylo-Studios/pulse) &nbsp;·&nbsp; [Build My Pulse →](https://vaylostudios.com/learn/build-my-pulse)
 
 ---
 
-### LeadSlicer - B2B Outreach Automation
+### [LeadSlicer](https://github.com/Vaylo-Studios/LeadSlicer) - B2B Outreach Automation
 
 **Find leads. Write outreach. Close deals. On autopilot.**
 
@@ -84,11 +84,11 @@ AI-powered lead generation and outreach SaaS. Discovers businesses across Google
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)&nbsp;
 ![Apify](https://img.shields.io/badge/Apify-1DB954?style=flat)
 
-[leadslicer.com →](https://leadslicer.com)
+[github.com/Vaylo-Studios/LeadSlicer](https://github.com/Vaylo-Studios/LeadSlicer) &nbsp;·&nbsp; [leadslicer.com →](https://leadslicer.com)
 
 ---
 
-### BookFade - Barber Booking Platform
+### [BookFade](https://github.com/Vaylo-Studios/bookfade) - Barber Booking Platform
 
 **Smart booking software for barbers and barbershops.**
 
@@ -105,9 +105,11 @@ Multi-tenant SaaS - independent barbers and shops manage bookings, calendar, cli
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_for_SaaS-F38020?style=flat&logo=cloudflare&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
+[github.com/Vaylo-Studios/bookfade](https://github.com/Vaylo-Studios/bookfade)
+
 ---
 
-### MotoRev - iOS Motorcycle App
+### [MotoRev](https://github.com/47-Industries/motorev-v2) - iOS Motorcycle App
 
 **The social platform built for motorcycle riders.**
 
@@ -125,9 +127,11 @@ Native SwiftUI app - GPS ride tracking, crash detection, emergency response, com
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)&nbsp;
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
+[github.com/47-Industries/motorev-v2](https://github.com/47-Industries/motorev-v2) &nbsp;·&nbsp; [motorevapp.com →](https://motorevapp.com)
+
 ---
 
-### Vaylo Music - Streaming Platform
+### [Vaylo Music](https://github.com/Vaylo-Studios/vaylo-music) - Streaming Platform
 
 **Full music streaming platform with native iOS app.**
 
@@ -135,6 +139,8 @@ Playback engine, catalog management, mobile-first experience - built from scratc
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+[github.com/Vaylo-Studios/vaylo-music](https://github.com/Vaylo-Studios/vaylo-music)
 
 ---
 
