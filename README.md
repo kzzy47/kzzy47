@@ -17,6 +17,10 @@ Founder & CEO, [Vaylo Studios](https://vaylostudios.com) · President, [47 Indus
 [![47 Industries](https://img.shields.io/badge/47_Industries-0d2218?style=for-the-badge)](https://47industries.com)
 [![Pulse Powered](https://img.shields.io/badge/Pulse_Powered-14b8a6?style=flat-square)](https://vaylostudios.com/pulse)
 
+<br/>
+
+[The flagships](#what-im-building) &nbsp; / &nbsp; [The product lineup](#apps--products) &nbsp; / &nbsp; [Client work](#built-for-businesses-too) &nbsp; / &nbsp; [The stack](#how-i-work) &nbsp; / &nbsp; [Why 47](#why-47)
+
 </div>
 
 ---
@@ -33,17 +37,43 @@ Vaylo Studios is where that work lives: products of our own, software for other 
 
 ### Pulse
 
+[![Pulse: one operator, many agents. Agent orchestration artwork.](assets/pulse.svg)](https://vaylostudios.com/pulse)
+
+**The system behind the operation.**
+
 The AI operator platform I build and use to run my work. Multiple agents, shared memory, terminals, and business workflows in one workspace, with execution on your own hardware. Built across desktop, web, and mobile, with support for Claude Code, Codex, and Gemini.
 
-[Explore Pulse](https://vaylostudios.com/pulse)
+| The workspace | The execution | The continuity |
+| :--- | :--- | :--- |
+| Agents, terminals, and projects together | Work runs on your own hardware | Shared memory and business workflows |
+
+[Explore Pulse →](https://vaylostudios.com/pulse)
+
+<br/>
 
 ### Empire District
 
+![Empire District: a stylized isometric city. Build the city, run the empire.](assets/empire.svg)
+
+**From the skyline to the furniture inside the bar.**
+
 A city and business simulation I'm building in Unity and C#. Procedural cities, purchasable businesses, competing owners, and a deterministic economy underneath it all. Current work reaches down to Blender-authored buildings, furnished interiors, and walking through the businesses you own. In active development.
+
+`Procedural world` · `Business simulation` · `Editable interiors` · `Street-level exploration`
+
+<br/>
 
 ### SiteGrid
 
+![SiteGrid: conceptual illustration of a custom website and its domain and deployment controls.](assets/sitegrid.svg)
+
+**The build is the beginning. The platform keeps it running.**
+
 The platform behind the sites: deployment, custom domains, site administration, and commerce. I'm building the system alongside the businesses and storefronts it supports.
+
+`Custom domains` · `Deployment` · `Site administration` · `Commerce`
+
+<br/>
 
 ### Apps & products
 
@@ -57,15 +87,49 @@ The platform behind the sites: deployment, custom domains, site administration, 
 | Vaylo Intel | Market data, signal research, and testing trading ideas against execution costs. |
 | Veillume | A commerce brand and storefront, from product presentation to the buying experience. |
 
+<details>
+<summary><strong>Inside the product lineup</strong></summary>
+
+#### MotoRev · Built around the ride
+
+Ride tracking, group rides, a digital garage, and a rider community, with native iOS and Apple Watch experiences. The work spans the app, backend, and everything that connects riders on the road.
+
+#### BookFade · The shop, beyond the calendar
+
+Booking is one piece. Walk-in queues, client records, reminders, and shop management bring the day-to-day operation into the same product.
+
+#### LeadSlicer · From discovery to outreach
+
+Business discovery, qualification, and outreach tooling. Recent work includes the Connect agent runner and the systems behind ongoing campaigns.
+
+#### CalPal, Music, Intel & Veillume
+
+Shared schedules. A listening experience. Market research. A commerce brand. Different problems, with work across the product, infrastructure, and daily operation.
+
+</details>
+
 ## Built for businesses, too
 
 My work also includes sites and digital experiences for Coffee Rush, Highwell Group, LERTIV, Harbor Master Marine, and other local businesses. Design, mobile behavior, content, deployment, and the admin tools behind the site are all part of the build.
+
+| Business | The work |
+| :--- | :--- |
+| Coffee Rush | A digital presence for a Florida coffee company |
+| Highwell Group | A company site for print, production, and fabrication |
+| LERTIV | Project presentation, case studies, and a company website |
+| Harbor Master Marine | A marine service website with a focus on clear services and contact |
+
+[Explore the studio's work →](https://vaylostudios.com)
 
 I share the methods through Vaylo's Inner Circle: what I'm using, what I'm changing, and what I've learned from running the work.
 
 ## How I work
 
+**Build it. Run it. Learn from it. Build it better.**
+
 I use AI throughout the build: code, design, research, automation, and iteration. I care about the entire product, including the parts you only notice when they break.
+
+Recent work moves between city interiors in Unity, domain automation in SiteGrid, product photography and storefront details, and the mobile polish on client sites. That's the range I like: the big system and the small detail.
 
 Most of my product code lives in private repositories. The work extends well beyond what's visible on this profile.
 
@@ -90,6 +154,10 @@ Most of my product code lives in private repositories. The work extends well bey
 ## Why 47
 
 47 Industries started with a 3D printer and a promise: never stop building. That promise carries Bryce Raiford's memory forward. It's still at the center of what I do.
+
+> **Never stop building.**
+>
+> In memory of Bryce Raiford.
 
 ---
 
