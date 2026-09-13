@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2800&pause=1200&color=5b8cff&center=true&vCenter=true&width=700&height=40&lines=Build+like+a+giant.+Live+like+one.;AI+%C2%B7+Software+%C2%B7+Apps+%C2%B7+Games.;Never+stop+building." alt="Build like a giant. Live like one. Never stop building." />
 
-**I build the products. I build the systems that run them.**
+**I build the products and the systems that run them.**
 
 Founder & CEO, [Vaylo Studios](https://vaylostudios.com) · President, [47 Industries](https://47industries.com)
 
