@@ -1,12 +1,21 @@
 <div align="center">
 
-# kzzy / 47
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,40:0d2218,70:0f3d2e,100:0a0f0d&height=80&section=header&text=&fontSize=0" alt="" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=58&duration=1&pause=999999&color=FFFFFF&background=0d2218&center=true&vCenter=true&width=900&height=110&lines=kzzy" alt="kzzy" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=18&duration=1&pause=999999&color=FFFFFF&background=0d2218&center=true&vCenter=true&width=900&height=36&lines=Builder.++++Operator.++++Founder." alt="Builder. Operator. Founder." width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,50:0d2218,100:0a0f0d&height=60&section=footer&text=&fontSize=0&reversal=true" alt="" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2800&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&height=40&lines=Build+like+a+giant.+Live+like+one.;AI+%C2%B7+Software+%C2%B7+Apps+%C2%B7+Games.;Never+stop+building." alt="Build like a giant. Live like one. Never stop building." />
 
 **I build the products. I build the systems that run them.**
 
 Founder & CEO, [Vaylo Studios](https://vaylostudios.com) · President, [47 Industries](https://47industries.com)
 
 [Studio](https://vaylostudios.com) · [Instagram](https://instagram.com/kzzy47) · [X](https://x.com/kzzy47)
+
+[![Vaylo Studios](https://img.shields.io/badge/Vaylo_Studios-0f3d2e?style=for-the-badge)](https://vaylostudios.com)
+[![47 Industries](https://img.shields.io/badge/47_Industries-0d2218?style=for-the-badge)](https://47industries.com)
+[![Pulse Powered](https://img.shields.io/badge/Pulse_Powered-14b8a6?style=flat-square)](https://vaylostudios.com/pulse)
 
 </div>
 
@@ -17,6 +26,10 @@ I taught myself to build software with AI. Now I build apps, agent systems, webs
 Vaylo Studios is where that work lives: products of our own, software for other businesses, and the lessons I share through the Inner Circle. I'm hands-on across the whole thing, from how a screen feels to what happens behind it.
 
 ## What I'm building
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f0d,50:0f3d2e,100:0a0f0d&height=90&text=What%20I'm%20Building&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Products.%20Systems.%20Worlds.&descSize=18&descColor=ffffff&descAlignY=80" alt="Products. Systems. Worlds." width="100%"/>
+</div>
 
 ### Pulse
 
@@ -58,6 +71,22 @@ Most of my product code lives in private repositories. The work extends well bey
 
 **Tools across my projects:** TypeScript, React, Next.js, Node.js, SwiftUI, Flutter, C#, Unity, Blender, SQL, and agent orchestration.
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f0d,50:0f3d2e,100:0a0f0d&height=70&text=Stack&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="Stack" width="100%"/>
+</div>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Pulse](https://img.shields.io/badge/Pulse-14b8a6?style=flat-square)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
 ## Why 47
 
 47 Industries started with a 3D printer and a promise: never stop building. That promise carries Bryce Raiford's memory forward. It's still at the center of what I do.
@@ -67,3 +96,13 @@ Most of my product code lives in private repositories. The work extends well bey
 **Build like a giant. Live like one.**
 
 [See the work](https://vaylostudios.com) · [About me](https://vaylostudios.com/team/kzzy)
+
+<div align="center">
+
+[![Explore Pulse](https://img.shields.io/badge/Explore_Pulse-0f3d2e?style=for-the-badge)](https://vaylostudios.com/pulse)
+[![Custom Development](https://img.shields.io/badge/Custom_Development-0d2218?style=for-the-badge)](https://vaylostudios.com/services)
+[![Inner Circle](https://img.shields.io/badge/Inner_Circle-0a1a12?style=for-the-badge)](https://vaylostudios.com/get/inner-circle)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,40:0d2218,70:0f3d2e,100:0a0f0d&height=140&section=footer&text=Ship%20or%20die.&fontSize=36&fontColor=14b8a6&fontAlignY=62&animation=fadeIn&reversal=true" alt="Ship or die." width="100%"/>
+
+</div>
