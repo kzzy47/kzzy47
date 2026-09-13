@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" role="img" aria-labelledby="title"><title id="title">SiteGrid — the platform behind the sites. Conceptual site deployment illustration.</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d2218"/><stop offset="1" stop-color="#0a0f0d"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#163a2b" stroke-width=".6"/></pattern></defs><rect width="960" height="320" rx="12" fill="url(#bg)"/><rect width="960" height="320" rx="12" fill="url(#grid)"/>
-<text x="32" y="64" fill="#f0fff7" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="800" letter-spacing="2">SITEGRID</text><text x="34" y="108" fill="#a8cbb9" font-family="Arial,Helvetica,sans-serif" font-size="23" >The platform behind the sites.</text>
-<text x="34" y="221" fill="#14b8a6" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1">DEPLOY / CONNECT / OPERATE</text><text x="34" y="256" fill="#f0fff7" font-family="Arial,Helvetica,sans-serif" font-size="17" >From a custom build to a running business.</text>
-<rect x="506" y="42" width="247" height="157" rx="5" fill="#0a0f0d" stroke="#387557"/>
-<path d="M506 65H753" stroke="#387557"/><circle cx="519" cy="54" r="3" fill="#14b8a6"/>
-<rect x="524" y="83" width="87" height="96" fill="#20583d"/>
-<path d="M542 157L562 121L580 146L594 116" fill="none" stroke="#8fc9a9" stroke-width="2"/>
-<path d="M628 89H733M628 106H712M628 126H728M628 138H715" stroke="#a8cbb9" stroke-width="3"/>
-<rect x="628" y="153" width="58" height="19" rx="2" fill="#14b8a6"/>
-<rect x="675" y="123" width="239" height="137" rx="5" fill="#0d2218" stroke="#70a88a"/>
-<path d="M675 148H914" stroke="#387557"/><text x="689" y="140" fill="#a8cbb9" font-family="Arial,Helvetica,sans-serif" font-size="12" >Domains &amp; deployments</text>
-<g fill="#14b8a6"><circle cx="691" cy="169" r="3"/><circle cx="691" cy="200" r="3"/><circle cx="691" cy="231" r="3"/></g>
-<text x="703" y="173" fill="#f0fff7" font-family="Arial,Helvetica,sans-serif" font-size="14" >Custom domains</text><text x="703" y="204" fill="#f0fff7" font-family="Arial,Helvetica,sans-serif" font-size="14" >Site administration</text><text x="703" y="235" fill="#f0fff7" font-family="Arial,Helvetica,sans-serif" font-size="14" >Commerce</text>
-<path d="M32 288H928" stroke="#245c45"/><text x="32" y="309" fill="#a8cbb9" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">VAYLO STUDIOS</text><text x="928" y="309" fill="#a8cbb9" font-family="Arial,Helvetica,sans-serif" font-size="11" text-anchor="end" letter-spacing="2">KZZY / 47</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" role="img" aria-labelledby="title"><title id="title">SiteGrid — the platform behind the sites. Conceptual site deployment illustration.</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#090b10"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1b263b" stroke-width=".6"/></pattern></defs><rect width="960" height="320" rx="12" fill="url(#bg)"/><rect width="960" height="320" rx="12" fill="url(#grid)"/>
+<text x="32" y="64" fill="#f4f7ff" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="800" letter-spacing="2">SITEGRID</text><text x="34" y="108" fill="#b8c4db" font-family="Arial,Helvetica,sans-serif" font-size="23" >The platform behind the sites.</text>
+<text x="34" y="221" fill="#5b8cff" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1">DEPLOY / CONNECT / OPERATE</text><text x="34" y="256" fill="#f4f7ff" font-family="Arial,Helvetica,sans-serif" font-size="17" >From a custom build to a running business.</text>
+<rect x="506" y="42" width="247" height="157" rx="5" fill="#090b10" stroke="#496795"/>
+<path d="M506 65H753" stroke="#496795"/><circle cx="519" cy="54" r="3" fill="#5b8cff"/>
+<rect x="524" y="83" width="87" height="96" fill="#294873"/>
+<path d="M542 157L562 121L580 146L594 116" fill="none" stroke="#afc9ef" stroke-width="2"/>
+<path d="M628 89H733M628 106H712M628 126H728M628 138H715" stroke="#b8c4db" stroke-width="3"/>
+<rect x="628" y="153" width="58" height="19" rx="2" fill="#5b8cff"/>
+<rect x="675" y="123" width="239" height="137" rx="5" fill="#111827" stroke="#8caad1"/>
+<path d="M675 148H914" stroke="#496795"/><text x="689" y="140" fill="#b8c4db" font-family="Arial,Helvetica,sans-serif" font-size="12" >Domains &amp; deployments</text>
+<g fill="#5b8cff"><circle cx="691" cy="169" r="3"/><circle cx="691" cy="200" r="3"/><circle cx="691" cy="231" r="3"/></g>
+<text x="703" y="173" fill="#f4f7ff" font-family="Arial,Helvetica,sans-serif" font-size="14" >Custom domains</text><text x="703" y="204" fill="#f4f7ff" font-family="Arial,Helvetica,sans-serif" font-size="14" >Site administration</text><text x="703" y="235" fill="#f4f7ff" font-family="Arial,Helvetica,sans-serif" font-size="14" >Commerce</text>
+<path d="M32 288H928" stroke="#304566"/><text x="32" y="309" fill="#b8c4db" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">VAYLO STUDIOS</text><text x="928" y="309" fill="#b8c4db" font-family="Arial,Helvetica,sans-serif" font-size="11" text-anchor="end" letter-spacing="2">KZZY / 47</text></svg>

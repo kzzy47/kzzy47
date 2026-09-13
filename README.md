@@ -2,7 +2,7 @@
 
 <a href="#choose-your-route"><img src="assets/identity.svg" alt="KZZY / 47. Builder. Operator. Founder. Choose your route below." width="100%"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2800&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&height=40&lines=Build+like+a+giant.+Live+like+one.;AI+%C2%B7+Software+%C2%B7+Apps+%C2%B7+Games.;Never+stop+building." alt="Build like a giant. Live like one. Never stop building." />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2800&pause=1200&color=5b8cff&center=true&vCenter=true&width=700&height=40&lines=Build+like+a+giant.+Live+like+one.;AI+%C2%B7+Software+%C2%B7+Apps+%C2%B7+Games.;Never+stop+building." alt="Build like a giant. Live like one. Never stop building." />
 
 **I build the products. I build the systems that run them.**
 
@@ -10,9 +10,9 @@ Founder & CEO, [Vaylo Studios](https://vaylostudios.com) · President, [47 Indus
 
 [Studio](https://vaylostudios.com) · [Instagram](https://instagram.com/kzzy47) · [X](https://x.com/kzzy47)
 
-[![Vaylo Studios](https://img.shields.io/badge/Vaylo_Studios-0f3d2e?style=for-the-badge)](https://vaylostudios.com)
-[![47 Industries](https://img.shields.io/badge/47_Industries-0d2218?style=for-the-badge)](https://47industries.com)
-[![Pulse Powered](https://img.shields.io/badge/Pulse_Powered-14b8a6?style=flat-square)](https://vaylostudios.com/pulse)
+[![Vaylo Studios](https://img.shields.io/badge/Vaylo_Studios-002fa7?style=for-the-badge)](https://vaylostudios.com)
+[![47 Industries](https://img.shields.io/badge/47_Industries-111827?style=for-the-badge)](https://47industries.com)
+[![Pulse Powered](https://img.shields.io/badge/Pulse_Powered-5b8cff?style=flat-square)](https://vaylostudios.com/pulse)
 
 <br/>
 
@@ -39,7 +39,7 @@ Vaylo builds websites, apps, and software for businesses. The work includes the 
 
 **Explore:** [Client work](#built-for-businesses-too) · [SiteGrid](#sitegrid)
 
-[![Start a project](https://img.shields.io/badge/START_A_PROJECT-0f3d2e?style=for-the-badge)](https://vaylostudios.com/services)
+[![Start a project](https://img.shields.io/badge/START_A_PROJECT-002fa7?style=for-the-badge)](https://vaylostudios.com/services)
 
 </details>
 
@@ -52,7 +52,7 @@ Agents, shared memory, terminals, and business workflows. Pulse is the platform 
 
 **Explore:** [Inside Pulse](#pulse) · [How I work](#how-i-work)
 
-[![Explore Pulse](https://img.shields.io/badge/EXPLORE_PULSE-0f3d2e?style=for-the-badge)](https://vaylostudios.com/pulse)
+[![Explore Pulse](https://img.shields.io/badge/EXPLORE_PULSE-002fa7?style=for-the-badge)](https://vaylostudios.com/pulse)
 
 </details>
 
@@ -63,7 +63,7 @@ Agents, shared memory, terminals, and business workflows. Pulse is the platform 
 
 The systems, methods, and lessons behind the products and client work. I share what I'm using, changing, and learning through Vaylo's Inner Circle.
 
-[![Explore Inner Circle](https://img.shields.io/badge/EXPLORE_INNER_CIRCLE-0f3d2e?style=for-the-badge)](https://vaylostudios.com/get/inner-circle)
+[![Explore Inner Circle](https://img.shields.io/badge/EXPLORE_INNER_CIRCLE-002fa7?style=for-the-badge)](https://vaylostudios.com/get/inner-circle)
 
 </details>
 
@@ -86,7 +86,7 @@ The systems, methods, and lessons behind the products and client work. I share w
 ## What I'm building
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f0d,50:0f3d2e,100:0a0f0d&height=90&text=What%20I'm%20Building&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Products.%20Systems.%20Worlds.&descSize=18&descColor=ffffff&descAlignY=80" alt="Products. Systems. Worlds." width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090b10,50:002fa7,100:090b10&height=90&text=What%20I'm%20Building&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Products.%20Systems.%20Worlds.&descSize=18&descColor=ffffff&descAlignY=80" alt="Products. Systems. Worlds." width="100%"/>
 </div>
 
 ### Pulse
@@ -218,7 +218,7 @@ Most of my product code lives in private repositories. The work extends well bey
 **Tools across my projects:** TypeScript, React, Next.js, Node.js, SwiftUI, Flutter, C#, Unity, Blender, SQL, and agent orchestration.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f0d,50:0f3d2e,100:0a0f0d&height=70&text=Stack&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="Stack" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090b10,50:002fa7,100:090b10&height=70&text=Stack&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="Stack" width="100%"/>
 </div>
 
 **Web & interfaces**
@@ -236,9 +236,9 @@ Most of my product code lives in private repositories. The work extends well bey
 
 **Agents & infrastructure**
 
-![Pulse](https://img.shields.io/badge/Pulse-14b8a6?style=flat-square)
+![Pulse](https://img.shields.io/badge/Pulse-5b8cff?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
-![Codex](https://img.shields.io/badge/Codex-0f3d2e?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-002fa7?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
@@ -271,17 +271,17 @@ Most of my product code lives in private repositories. The work extends well bey
 
 [See the work](https://vaylostudios.com) · [About me](https://vaylostudios.com/team/kzzy)
 
-[![Instagram](https://img.shields.io/badge/Instagram-kzzy47-0f3d2e?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kzzy47)
-[![X](https://img.shields.io/badge/X-kzzy47-0d2218?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kzzy47)
+[![Instagram](https://img.shields.io/badge/Instagram-kzzy47-002fa7?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kzzy47)
+[![X](https://img.shields.io/badge/X-kzzy47-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kzzy47)
 
 [Back to the top ↑](#choose-your-route)
 
 <div align="center">
 
-[![Explore Pulse](https://img.shields.io/badge/Explore_Pulse-0f3d2e?style=for-the-badge)](https://vaylostudios.com/pulse)
-[![Custom Development](https://img.shields.io/badge/Custom_Development-0d2218?style=for-the-badge)](https://vaylostudios.com/services)
-[![Inner Circle](https://img.shields.io/badge/Inner_Circle-0a1a12?style=for-the-badge)](https://vaylostudios.com/get/inner-circle)
+[![Explore Pulse](https://img.shields.io/badge/Explore_Pulse-002fa7?style=for-the-badge)](https://vaylostudios.com/pulse)
+[![Custom Development](https://img.shields.io/badge/Custom_Development-111827?style=for-the-badge)](https://vaylostudios.com/services)
+[![Inner Circle](https://img.shields.io/badge/Inner_Circle-15213a?style=for-the-badge)](https://vaylostudios.com/get/inner-circle)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,40:0d2218,70:0f3d2e,100:0a0f0d&height=140&section=footer&text=Ship%20or%20die.&fontSize=36&fontColor=14b8a6&fontAlignY=62&animation=fadeIn&reversal=true" alt="Ship or die." width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090b10,40:111827,70:002fa7,100:090b10&height=140&section=footer&text=Ship%20or%20die.&fontSize=36&fontColor=5b8cff&fontAlignY=62&animation=fadeIn&reversal=true" alt="Ship or die." width="100%"/>
 
 </div>
